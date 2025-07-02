@@ -1,0 +1,10 @@
+tensorflow-macos
+tensorflow
+tensorflow-metal
+numpy
+pandas 
+librosa
+soundfile
+scipy
+tensorflow-io
+scikit-learn
